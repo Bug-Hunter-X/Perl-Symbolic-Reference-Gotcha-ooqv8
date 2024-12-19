@@ -1,0 +1,1 @@
+This repository demonstrates a potential issue with Perl's symbolic references.  The `bug.pl` file contains code that uses symbolic references in a way that may be unexpected to those unfamiliar with this feature of Perl. The `bugSolution.pl` file offers a safer alternative.
